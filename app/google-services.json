@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "65150625552",
+    "firebase_url": "https://superiorshoes-b11d7.firebaseio.com",
+    "project_id": "superiorshoes-b11d7",
+    "storage_bucket": "superiorshoes-b11d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65150625552:android:17cb3e02b35c10aa",
+        "android_client_info": {
+          "package_name": "com.superiorshoes.ooguro.androidsuperiorserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65150625552-rn099e3fmb1d58vdobul6bc3eptpq09d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.superiorshoes.ooguro.androidsuperiorserver",
+            "certificate_hash": "75bab4af5a3803996584814380c1a70da86584df"
+          }
+        },
+        {
+          "client_id": "65150625552-r9ijiva80pk9gajjekrnk82m462ilr88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4txiLcnpPXhcmK7ngiRT59mguF7GHwhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65150625552-r9ijiva80pk9gajjekrnk82m462ilr88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65150625552:android:488a4899aa792ef9",
+        "android_client_info": {
+          "package_name": "com.superiorshoes.ooguro.superiorshoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65150625552-o1nnc5ukqmifpj5rdqpea5u3t00eo48h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.superiorshoes.ooguro.superiorshoes",
+            "certificate_hash": "75bab4af5a3803996584814380c1a70da86584df"
+          }
+        },
+        {
+          "client_id": "65150625552-r9ijiva80pk9gajjekrnk82m462ilr88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4txiLcnpPXhcmK7ngiRT59mguF7GHwhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65150625552-r9ijiva80pk9gajjekrnk82m462ilr88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
